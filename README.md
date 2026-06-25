@@ -65,6 +65,8 @@ cd Crime-AI-solver-using-Classical-AI
 
 
 ```
+
+
 ==================================================
    AI SEARCH ALGORITHM PERFORMANCE BENCHMARK   
 ==================================================
@@ -77,3 +79,4 @@ BFS        | 6               | 0.2891               | Bilal
 A*         | 2               | 0.0812               | Bilal
 ---------------------------------------------------------------------------
 Benchmark Complete.
+Note: Informed architectures ($A^*$) minimize search space inflation by steering directly towards target nodes via mathematical prioritization, outperforming unguided horizontal scans (BFS).
