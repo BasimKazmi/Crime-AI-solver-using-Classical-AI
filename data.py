@@ -11,7 +11,7 @@ crime_cases = {
                 "height": "tall",
                 "weapon": "knife",
                 "hair": "short",
-                "beard": True,
+                "beard": False,
                 "fingerprint": False
             },
 
