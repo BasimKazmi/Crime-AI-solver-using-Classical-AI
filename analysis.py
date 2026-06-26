@@ -12,7 +12,7 @@ def run_benchmark():
     suspects = crime_cases["Murder"]["suspects"]
     clue_order = ["jacket", "height", "weapon", "hair", "beard", "fingerprint"]
     
-    # Let's use Bilal as our target target. 
+    # Let's use Moeez as our target target. 
     # His traits: black jacket, tall, knife, short hair, beard, fingerprint=True
     target_profile = {
         "jacket": "black",
